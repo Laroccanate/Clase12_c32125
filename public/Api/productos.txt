@@ -1,0 +1,14 @@
+[
+  {
+    "title": "imagenprueba",
+    "price": "1200",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png",
+    "id": 1
+  },
+  {
+    "title": "imagenprueba2",
+    "price": "2000",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-128.png",
+    "id": 2
+  }
+]
